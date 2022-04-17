@@ -3,7 +3,7 @@
 
 ### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atanas18-mg)             [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ovcharov_18/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='40'>](https://www.tiktok.com/@ovcharov_18)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atanas18-mg)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ovcharov_18/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='40'>](https://www.tiktok.com/@ovcharov_18)  
 
 
 ### Languages and Tools:
@@ -18,3 +18,6 @@
 - 🤔 I’m looking for help with  with my projects 
 - 💬 Ask me about  my life 
 - ⚡ Fun fact: Loving football and F1 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
