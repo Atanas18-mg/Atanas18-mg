@@ -8,4 +8,5 @@
 - 💬 Ask me about my life
 - ⚡ Fun fact: Loving football and F1
 
--->
+### Connect with me:
+[<img align="left" alt="ovcharov_18" | width="22px" src="https://www.instagram.com/ovcharov_18/simple-icons@v3/icons/instagram-light.svg" />] [instagram]
