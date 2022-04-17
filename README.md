@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Atanas 
 #### I am a student, Worker, Athlete and most importantly I am a Bulgarian
-![I am a student, Worker, Athlete and most importantly I am a Bulgarian](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ### Connect with me:
 
@@ -10,10 +9,13 @@
 
 ### Languages and Tools:
 
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](https://docs.microsoft.com/en-us/dotnet/csharp/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>]
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg' alt='arduino' height='40'>]
 
+<br />
+
 ### Something about me:
+
 - 🔭 I’m currently working on my personal development in the world of technology 
 - 🌱 I’m currently learning PCB design and srtucture 
 - 🤔 I’m looking for help with  with my projects 
