@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Atanas 
-#### I am a student, Worker, Athlete and i am from Bulgarian
+### Hi there 👋, my name is Atanas and I'm from Bulgaria
+#### I'm a student, Worker and Athlete 
 
 ### Something about me:
 
