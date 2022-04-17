@@ -20,4 +20,4 @@
 - ⚡ Fun fact: Loving football and F1 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atanas18-mg)](https://github.com/anuraghazra/github-readme-stats)
