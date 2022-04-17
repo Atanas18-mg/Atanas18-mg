@@ -4,6 +4,7 @@
 ### Something about me:
 
 - 🔭 I’m currently working on my personal development in the world of technology 
+- 📘 I'm currently studying in Mathematical High School "Akademik Kiril Popov" Plovdiv
 - 🌱 I’m currently learning PCB design and srtucture 
 - 🤔 I’m looking for help with  with my projects 
 - 💬 Ask me about  my life 
